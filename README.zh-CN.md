@@ -1,4 +1,4 @@
-# AIS-OS:适用于 Claude Code 和 Codex 的 AI 操作系统入门套件
+# CAT-OS:适用于 Claude Code 和 Codex 的 AI 操作系统入门套件
 
 > 🌐 English version: [README.md](README.md)
 
@@ -6,13 +6,13 @@
 
 套件通过 `/onboard` 访谈实现个性化定制。想让它更懂你的业务、偏好或计划时,随时用 `/grill-me`。用 `/link` 让新信息可被检索,用 `/audit` 验证系统,用 `/level-up` 每次弥合一个有用的差距,用 `/3d-brain` 以交互式星球的形式探索你保存的知识。
 
-> **AIS-OS** 代表 **AI Automation Society OS**——这是 Nate 为他的社区成员 [AI Automation Society](https://www.skool.com/ai-automation-society) 设计的 AI OS 搭建方式。套件本身是通用的(对任何人都适用),但其结构反映了 AIS 成员在这个基础之上运营自己业务的方式。
+> **CAT-OS** 代表 **AI Automation Society OS**——这是 Nate 为他的社区成员 [AI Automation Society](https://www.skool.com/ai-automation-society) 设计的 AI OS 搭建方式。套件本身是通用的(对任何人都适用),但其结构反映了 AIS 成员在这个基础之上运营自己业务的方式。
 
 ---
 
 ## 试金石
 
-> **"当你不在办公桌前时,你的 AIS-OS 观察一个真实世界事件,并产出比你亲自做更快、更准确的结果。"**
+> **"当你不在办公桌前时,你的 CAT-OS 观察一个真实世界事件,并产出比你亲自做更快、更准确的结果。"**
 
 这个套件里的每一个设计决策都服务于这条检验。如果某个层、技能或模板对这个目标没有贡献,它就不会被发布。
 
@@ -136,7 +136,7 @@
 ## 仓库结构
 
 ```
-AIS-OS/
+CAT-OS/
 ├── README.md
 ├── CLAUDE.md                        ← Claude Code 的共享操作手册
 ├── AGENTS.md                        ← Codex 的对应操作手册

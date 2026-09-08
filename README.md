@@ -1,4 +1,4 @@
-# AIS-OS: AI Operating System starter kit for Claude Code and Codex
+# CAT-OS: AI Operating System starter kit for Claude Code and Codex
 
 > 🌐 简体中文版:[README.zh-CN.md](README.zh-CN.md)
 
@@ -6,13 +6,13 @@ A free, MIT-licensed starter kit that turns Claude Code or Codex into your perso
 
 The kit personalizes itself to you via an `/onboard` interview. Use `/grill-me` whenever you want to deepen its understanding of your business, preferences, or plans. Use `/link` to make new information findable, `/audit` to verify the system, `/level-up` to close one useful gap at a time, and `/3d-brain` to explore your saved knowledge as an interactive globe.
 
-> **AIS-OS** stands for **AI Automation Society OS** — the way Nate designed this AI OS to be set up for members of his community, [AI Automation Society](https://www.skool.com/ai-automation-society). The kit is universal (it works for anyone), but the structure mirrors how AIS members run their own businesses on top of it.
+> **CAT-OS** stands for **AI Automation Society OS** — the way Nate designed this AI OS to be set up for members of his community, [AI Automation Society](https://www.skool.com/ai-automation-society). The kit is universal (it works for anyone), but the structure mirrors how AIS members run their own businesses on top of it.
 
 ---
 
 ## The litmus test
 
-> **"While you're not at your desk, your AIS-OS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
+> **"While you're not at your desk, your CAT-OS observes one real-world event and produces an output that's faster and more accurate than what you'd produce yourself."**
 
 Every design decision in this kit rolls up to that test. If a layer, skill, or template doesn't contribute to it, it doesn't ship.
 
@@ -136,7 +136,7 @@ The six skills are also installed under `.agents/skills/`. Use the skill picker 
 ## Repo layout
 
 ```
-AIS-OS/
+CAT-OS/
 ├── README.md
 ├── CLAUDE.md                        ← Shared operating manual for Claude Code
 ├── AGENTS.md                        ← Matching operating manual for Codex
